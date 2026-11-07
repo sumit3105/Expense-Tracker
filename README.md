@@ -2,8 +2,6 @@
 
 An offline-first, multi-currency personal expense tracking application built with **Flutter**, **Riverpod**, and **Hive**. Designed with Clean Architecture principles for maintainability, speed, and cross-platform flexibility (Android, iOS, Web, and Desktop).
 
-![Expense Tracker Logo](expense-tracker-logo.png)
-
 ---
 
 ## ✨ Features
