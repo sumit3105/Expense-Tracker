@@ -170,20 +170,6 @@ flutter build macos --release
 # Linux
 flutter build linux --release
 ```
-
----
-
-## 🧪 Testing & Code Quality
-
-Run tests to ensure everything is operating properly:
-```bash
-# Run unit & widget tests
-flutter test
-
-# Run static analysis
-flutter analyze
-```
-
 ---
 
 ## 🤝 Contributing
@@ -197,7 +183,3 @@ Contributions, issues, and feature requests are welcome!
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
